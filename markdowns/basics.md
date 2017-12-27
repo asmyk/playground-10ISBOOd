@@ -50,7 +50,7 @@ Our framework should generate something like this:
 
 # Create element
 
-TECHIO> open --port 8080 /code/basics/index.html
+TECHIO> open --static-dir 8080 /project/target/code/basics/index.html
 
 # Attributes?
 
