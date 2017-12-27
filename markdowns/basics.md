@@ -49,9 +49,9 @@ Our framework should generate something like this:
 ```
 
 # Create element
-
-TECHIO> open --static-dir 8080 /project/target/code/basics/index.html
-
+```
+@[Launch the server]({ "stubs": ["index.js"], "command": "node server.js" })
+```
 # Attributes?
 
 # Component's childrens
