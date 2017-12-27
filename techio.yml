@@ -3,7 +3,7 @@ plan:
 - title: Welcome
   statement: markdowns/welcome.md
 - title: Render basics elements 
-  statement: markdowns/basic.md
+  statement: markdowns/basics.md
 - title: Functional components
   statement: markdowns/functional_components.md
 - title: Class components
