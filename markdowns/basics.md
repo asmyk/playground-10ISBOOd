@@ -50,6 +50,8 @@ Our framework should generate something like this:
 
 # Create element
 
+TECHIO> open --port 8080 /code/basics/index.html
+
 # Attributes?
 
 # Component's childrens
