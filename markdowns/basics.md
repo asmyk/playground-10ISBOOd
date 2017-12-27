@@ -49,9 +49,9 @@ Our framework should generate something like this:
 ```
 
 # Create element
-```
+
 @[Launch the server]({ "stubs": ["index.js"], "command": "node server.js" })
-```
+
 # Attributes?
 
 # Component's childrens
